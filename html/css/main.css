@@ -1,4 +1,14 @@
 /** css ***/
-background-gray{
-	background:#ddd;
+.wrapper{
+margin-top:30px;
+margin-bottom:30px;
+}
+.background-gray{
+	background:#f9f9f9;
+	margin-top:30px;
+	margin-bottom:30px;
+	padding-top:40px;
+	padding-bottom:40px;
+	border-top:1px solid #f2f2f2;
+	border-bottom:1px solid #f2f2f2;
 }
